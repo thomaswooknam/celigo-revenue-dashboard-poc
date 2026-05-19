@@ -1,5 +1,5 @@
 # Executive Revenue & Pipeline Health Dashboard (PoC)
-**Live Executive Asset:** `<https://public.tableau.com/views/RevenueIntelligenceComplianceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>`
+**Live Executive Asset:** <a href="https://public.tableau.com/views/RevenueIntelligenceComplianceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">View the Revenue Intelligence Compliance Dashboard</a>
 
 ---
 
