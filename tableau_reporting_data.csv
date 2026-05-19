@@ -1,0 +1,5 @@
+lead_id,lead_name,company_name,lead_status,created_date,estimated_deal_value,data_integrity_flag,days_to_qualify,true_velocity_days,validated_pipeline_revenue,corporate_revenue_target
+00Q51,Thomas Wooknam,Canvas Data,Qualified,2026-05-01,50000,VALID_DATA_INTEGRITY,17,17,50000,200000
+00Q52,Sarah Jenkins,Celigo Partner,In Progress,2026-05-10,30000,VALID_DATA_INTEGRITY,0,0,30000,200000
+00Q53,John Doe,Legacy Corp,Qualified,2026-05-18,120000,PROCESS_SHORTCUT_WARN,0,,120000,200000
+00Q54,Jane Smith,SaaS Startup,Qualified,2026-05-20,45000,SYSTEM_OVERWRITE_CORRUPTION,-5,-5,0,200000
